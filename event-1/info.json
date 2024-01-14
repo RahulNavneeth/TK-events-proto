@@ -1,8 +1,18 @@
 {
-    "name": "Dance",
-    "date": "2021-01-01",
-    "time": [12, 1],
-    "description": "Dance with me",
-    "max": 10,
-    "price": 100
+  title: "Coding Challenge",
+  tagline: "Test Your Programming Skills",
+  description: "A coding competition for enthusiasts.",
+  rules: ["Participants must bring their own laptops", "No external resources allowed"],
+  details: {
+    type: "TECHNICAL",
+    date: "2024-02-01",
+    time: [15, 0]
+  },
+  prizes: ["First Place: $500", "Second Place: $300"],
+  contacts: [
+    { incharge: "Alice Smith", email: "alice@example.com", phno: "123-456-7890" },
+    { incharge: "Bob Johnson", email: "bob@example.com", phno: "987-654-3210" }
+  ],
+  links: ["https://coding-challenge.com"],
+  fee: 20
 }
