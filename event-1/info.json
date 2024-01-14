@@ -1,0 +1,8 @@
+{
+    "name": "Dance",
+    "date": "2021-01-01",
+    "time": [12, 1],
+    "description": "Dance with me",
+    "max": 10,
+    "price": 100
+}
