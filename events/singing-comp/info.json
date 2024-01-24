@@ -1,0 +1,18 @@
+{
+  "title": "signing Challenge",
+  "tagline": "Test Your signing Skills",
+  "description": "A signing competition for enthusiasts.",
+  "rules": ["Participants must bring their own songs", "No external resources allowed"],
+  "details": {
+    "type": "NON-TECHNICAL",
+    "date": "2024-02-01",
+    "time": [15, 30]
+  },
+  "prizes": ["First Place: $500", "Second Place: $300"],
+  "contacts": [
+    { "incharge": "Alice Smith", "email": "alice@example.com", "phno": "123-456-7890" },
+    { "incharge": "Bob Johnson", "email": "bob@example.com", "phno": "987-654-3210" }
+  ],
+  "links": ["https://signing-challenge.com"],
+  "fee": 200
+}
